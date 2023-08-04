@@ -29,5 +29,13 @@ img {
   align-items: center;
 }
 .value {
-  font-size: 30px;
+  font-size: 50px;
+}
+
+#datetime-picker {
+  font-size: 24px;
+}
+
+.startBtn {
+  font-size: 24px;
 }
